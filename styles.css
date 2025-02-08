@@ -6,6 +6,9 @@
     border-right: 10px solid #94A18B;
     margin: 10px;
     padding: 30px;
+    @media screen and (max-width: 1000px) {
+    display: none;
+  }
 }
 .sidepannel div{
     flex: 1;
