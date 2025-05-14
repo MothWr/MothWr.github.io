@@ -25,8 +25,13 @@
 .contentcube.toponly{
     border-top: 10px solid #94A18B;
 }
+.contentcube.botonly{
+    border-bottom: 10px solid #94A18B;
+    padding: 10px;
+}
 .contentcube.rightonly{
     border-right: 10px solid #94A18B;
+
 }
 .contentcube.total{
     border: 10px solid #94A18B;
@@ -36,6 +41,7 @@
     -webkit-mask: var(--mask);
     mask: var(--mask);
     background-color: #afbf9f;
+    border-radius: 25px;
 }
 .contentcube.stamp.alt{
     background-color: #D9E0D1;
@@ -51,6 +57,7 @@
     -webkit-mask: var(--mask);
     mask: var(--mask);
     background-color: #D9E0D1;
+    border-radius: 25px;
 }
 .navbarelement{
     flex: 1;
@@ -77,7 +84,14 @@
     flex: 0;
     margin: 5px;
     padding: 7px;
-    text-align: centers 
+    text-align: centers
+}
+.projectorblogimg img{
+    border-radius: 25px;
+}
+div{
+    font-family: 'Courier New', monospace;
+    color: #4c2b20;
 }
 p{
     font-family: 'Courier New', monospace;
