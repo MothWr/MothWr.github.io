@@ -1,4 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
     const blogPost = {
         title: "Introductions",
         author_and_date: "Lachlan Earl ~ 13/05/2025",
@@ -46,11 +45,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
             <h2>Song To Give A Listen</h2>
             <i>A song that I think is pretty good and should be given a listen</i>
-            <p><a href="bhttps://youtu.be/A-qW8qwIKJk?si=TM8Ll_7-p_nb8PpK"><i>methyl ethyl ~ obscura </i></a></p>
+            <p><a href="https://youtu.be/A-qW8qwIKJk?si=TM8Ll_7-p_nb8PpK"><i>methyl ethyl ~ obscura </i></a></p>
         `
     };
 
     document.getElementById('post-title').textContent = blogPost.title;
     document.getElementById('post-content').innerHTML = blogPost.content;
     document.getElementById('Author-date').innerHTML = blogPost.author_and_date;
-});

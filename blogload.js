@@ -12,3 +12,5 @@
         document.body.appendChild(fallbackScript);
         console.log(`loaded: ${scriptName}... should be: 404.js`);
     }
+
+//issue :(
