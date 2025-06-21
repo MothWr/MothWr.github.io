@@ -3,7 +3,7 @@
         author_and_date: "Lachlan Earl ~ 13/05/2025",
         content: `
             <p>
-                <b>Hello readers, hope you are all well, and welcome to my first blog post :)</b>
+                Hello readers, hope you are all well, and welcome to my first blog post :)
             </p>
 
             <p>

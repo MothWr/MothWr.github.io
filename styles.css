@@ -33,6 +33,10 @@
     border-right: 10px solid #94A18B;
 
 }
+.contentcube.leftonly{
+    border-left: 10px solid #94A18B;
+
+}
 .contentcube.total{
     border: 10px solid #94A18B;
 }
