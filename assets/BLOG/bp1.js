@@ -1,13 +1,13 @@
     const blogPost = {
         title: "Introductions",
-        author_and_date: "Lachlan Earl ~ 13/05/2025",
+        author_and_date: "Wren Earl ~ 13/05/2025",
         content: `
             <p>
                 Hello readers, hope you are all well, and welcome to my first blog post :)
             </p>
 
             <p>
-                My name is Lachlan, I am a computer science university student as well as an aspiring machine learning and database developer. I mainly work and have a heavy preference for C++, however I have experience in python [3 and 2.7], R, Matlab, SQL and bash scripting. 
+                My name is Wren, I am a computer science university student as well as an aspiring machine learning and database developer. I mainly work and have a heavy preference for C++, however I have experience in python [3 and 2.7], R, Matlab, SQL and bash scripting. 
             </p>
 
             <p>

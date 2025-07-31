@@ -1,6 +1,6 @@
     const blogPost = {
         title: "Learning C# through simulated ants",
-        author_and_date: "Lachlan Earl ~ 21/06/2025",
+        author_and_date: "Wren Earl ~ 21/06/2025",
         content: `
             <p>
                 Hello again, readers, welcome to post number two! This time the post is <b>actually about development!</b>
